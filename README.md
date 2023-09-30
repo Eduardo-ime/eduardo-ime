@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 <p>🔭 Estudo front end por Hobby</p>
 <p>🌱 Aspirante a formação IME</p>
-<br>🪖 Soldado do EB</br>
+<p>🪖 Soldado do EB</p>
 
 * 🌍  Moro em Nova Iguaçu, RJ.
 * ✉️  Fale comigo: [eduardo-emp@hotmail.com](mailto:eduardo-emp@hotmail.com)
