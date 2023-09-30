@@ -4,7 +4,7 @@ Eea? ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9
 - 🔭 Estudo front end e desenvolvo ideias com base
 - 🌱 Aspirante a formação IME
 - 🪖 Soldado do EB
-- 🌍  Moro em Nova Iguaçu, RJ.
+- 🌍  Moro em Nova Iguaçu, RJ
 - ✉️  Fale comigo: [eduardo-emp@hotmail.com](mailto:eduardo-emp@hotmail.com)
 
 ### Linguagens
