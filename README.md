@@ -1,7 +1,9 @@
 Eea? ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Meu nome é Eduardo
 ===============================================================================================================================
 
-🔭 Estudo front end por Hobby 🌱 Aspirante a formação IME 🪖 Soldado do EB
+🔭 Estudo front end por Hobby 
+🌱 Aspirante a formação IME 
+🪖 Soldado do EB
 
 * 🌍  Moro em Nova Iguaçu, RJ.
 * ✉️  Fale comigo: [eduardo-emp@hotmail.com](mailto:eduardo-emp@hotmail.com)
