@@ -2,7 +2,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ===============================================================================================================================
 
 <p>🔭 Estudo front end por Hobby</p>
-<br>🌱 Aspirante a formação IME</br>
+<p>🌱 Aspirante a formação IME</p>
 <br>🪖 Soldado do EB</br>
 
 * 🌍  Moro em Nova Iguaçu, RJ.
