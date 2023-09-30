@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Eduardo
 ===============================================================================================================================
 
-<br>🔭 Estudo front end por Hobby</br>
+<p>🔭 Estudo front end por Hobby</p>
 <br>🌱 Aspirante a formação IME</br>
 <br>🪖 Soldado do EB</br>
 
